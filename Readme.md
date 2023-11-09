@@ -25,3 +25,5 @@ Welcome to the XYZ Movies website, your destination to discover and enjoy the be
 ## :link: Link to see the project in action
 
 [Here you can visit my website](https://movies-page-adrian-dev.netlify.app/)
+
+## :wave: Greetings!!
