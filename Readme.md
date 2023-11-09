@@ -18,10 +18,10 @@ Welcome to the XYZ Movies website, your destination to discover and enjoy the be
 
 - **High quality playback:** All our movies are streamed in high definition so you can enjoy the best viewing experience possible.
 
-## :camera_flash: ## Project Image
+## :camera_flash: Project Image
 
 ![My Project](/Movie.PNG)
 
-## :link: ## Link to see the project in action
+## :link: Link to see the project in action
 
 [Here you can visit my website](https://movies-page-adrian-dev.netlify.app/)
